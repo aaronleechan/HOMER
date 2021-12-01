@@ -1,0 +1,11 @@
+.succcess-alert{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+
+.error-alert{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}

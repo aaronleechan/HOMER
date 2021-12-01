@@ -1,0 +1,16 @@
+.textarea-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    margin-bottom: 5px;
+    width: 48%;
+}
+
+.textarea-container textarea{
+    width: 250px;
+}
+
+.textarea-container label{
+
+}
